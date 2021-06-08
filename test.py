@@ -1,4 +1,5 @@
-import unittest
+import unittest2 as unittest
+import json5 as json
 from twitter_scraper import get_tweets, get_trends
 
 
